@@ -4,7 +4,7 @@ A comprehensive and interactive **Sales Analysis Dashboard** built using **Power
 
 ---
 ## View of Dashboard
-https://github.com/VijayLodhi03/Sales-Dashboard-using-Power-Bi/blob/main/Sales%20Dashboard.pdf
+file:///C:/Users/Fully/Downloads/Sales%20Dashboard.pdf
 
 ## Features 🌟  
 
