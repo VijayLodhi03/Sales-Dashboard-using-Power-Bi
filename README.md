@@ -4,7 +4,8 @@ A comprehensive and interactive **Sales Analysis Dashboard** built using **Power
 
 ---
 ## View of Dashboard
-file:///C:/Users/Fully/Downloads/Sales%20Dashboard.pdf
+![Sales Dashboard_page-0001](https://github.com/user-attachments/assets/9a3a95c8-60c5-4c3b-a296-5c208b8f19f8)
+
 
 ## Features 🌟  
 
