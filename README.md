@@ -3,6 +3,8 @@
 A comprehensive and interactive **Sales Analysis Dashboard** built using **Power BI**, designed to provide actionable insights into sales performance, trends, and key metrics. This dashboard is ideal for businesses looking to make data-driven decisions and optimize their strategies.
 
 ---
+## View of Dashboard
+https://github.com/VijayLodhi03/Sales-Dashboard-using-Power-Bi/blob/main/Sales%20Dashboard.pdf
 
 ## Features 🌟  
 
